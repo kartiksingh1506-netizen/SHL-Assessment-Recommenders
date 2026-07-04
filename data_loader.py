@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-DATA_FILE = Path("data/assessments.json")
+DATA_FILE = Path("assessments.json")
 
 
 def load_assessments():
